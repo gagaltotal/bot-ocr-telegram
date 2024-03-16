@@ -34,3 +34,5 @@ config bot token di file config_token
 jalankan bot menggunakan python 3 :
 
 - python3 bot.py
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/bot-ocr-telegram/main/ss.png)
