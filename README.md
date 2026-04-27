@@ -1,5 +1,7 @@
 # Bot OCR Telegram
 
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/bot-ocr-telegram/refs/heads/main/Screenshot%20from%202026-04-27%2014-44-12.png)
+
 **Bot Telegram untuk Konversi Foto ke Teks**
 
 Bot Telegram canggih yang menggunakan Optical Character Recognition (OCR) untuk mengubah foto/tangkapan layar Anda menjadi teks yang dapat disalin. Mendukung dua bahasa: **English** dan **Indonesia**.
@@ -104,6 +106,8 @@ Contoh format token yang benar:
 ```
 
 ## Cara Penggunaan
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/bot-ocr-telegram/refs/heads/main/Screenshot%20from%202026-04-27%2015-14-10.png)
 
 ### Jalankan Bot
 ```bash
